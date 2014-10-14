@@ -1,5 +1,5 @@
 jenkins:
-  nginx_port: 9080
+  nginx_port: 8500
   home: /opt/jenkins
   user: jenkins
   group: www-data

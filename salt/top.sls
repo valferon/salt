@@ -1,3 +1,4 @@
 base:
   'minion':
     - jenkins
+    - nginx
